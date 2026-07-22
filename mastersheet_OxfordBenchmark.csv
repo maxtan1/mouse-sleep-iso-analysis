@@ -1,0 +1,8 @@
+SID,EDFPath,AnnotPath
+pilot,OxfordMouseBench/pilot/recordings/pilot.edf,OxfordMouseBench/pilot/annotations/pilot_consensus.hyp
+SampleFile_A,OxfordMouseBench/test/recordings/SampleFile_A.edf,OxfordMouseBench/test/annotations/SampleFile_A_consensus_state_annotation.hyp
+SampleFile_B,OxfordMouseBench/test/recordings/SampleFile_B.edf,OxfordMouseBench/test/annotations/SampleFile_B_consensus_state_annotation.hyp
+SampleFile_C,OxfordMouseBench/test/recordings/SampleFile_C.edf,OxfordMouseBench/test/annotations/SampleFile_C_consensus_state_annotation.hyp
+SampleFile_D,OxfordMouseBench/test/recordings/SampleFile_D.edf,OxfordMouseBench/test/annotations/SampleFile_D_consensus_state_annotation.hyp
+SampleFile_E,OxfordMouseBench/test/recordings/SampleFile_E.edf,OxfordMouseBench/test/annotations/SampleFile_E_consensus_state_annotation.hyp
+SampleFile_F,OxfordMouseBench/test/recordings/SampleFile_F.edf,OxfordMouseBench/test/annotations/SampleFile_F_consensus_state_annotation.hyp
